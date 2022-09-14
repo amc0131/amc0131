@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+:computer: I'm interested in ...
++ Game development (specifically Unity and UE!)
++ Software development
++ iOS app development
+
+
+:notebook: I’m currently learning ...
++ Python
++ NodeJS
++ Javascript
++ Swift
+
 <!--
 **amc0131/amc0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
