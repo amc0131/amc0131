@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+:school_satchel: I'm Aaron! I'm currently a Computer Science majoring Senior at the University of Kentucky.
+
 :computer: I'm interested in ...
 + Game development (specifically Unity and UE!)
 + Software development
@@ -11,6 +13,10 @@
 + NodeJS
 + Javascript
 + Swift
+
+:book: I am looking forward to learning ...
++ C#
++ Rust
 
 <!--
 **amc0131/amc0131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
